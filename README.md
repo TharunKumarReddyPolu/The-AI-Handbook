@@ -2,12 +2,12 @@
 
 <div align="center">
 
-# **A I   H A N D B O O K**
-
 ### *Your Ultimate Guide to AI Tools, Resources, and Mastery*
 
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-blue)
+[![GitHub stars](https://img.shields.io/github/stars/TharunKumarReddyPolu/The-AI-Handbook?style=flat&logo=github)](https://github.com/TharunKumarReddyPolu/The-AI-Handbook/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/TharunKumarReddyPolu/The-AI-Handbook?style=flat&logo=github)](https://github.com/TharunKumarReddyPolu/The-AI-Handbook/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/TharunKumarReddyPolu/The-AI-Handbook?style=flat&logo=github)](https://github.com/TharunKumarReddyPolu/The-AI-Handbook/issues)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![AI Tools](https://img.shields.io/badge/AI%20Tools-50%2B-orange)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-Nov%202025-purple)
 
@@ -31,7 +31,6 @@ This handbook is a **curated compilation of AI tools, platforms, and learning re
 ## 📑 Table of Contents
 
 - [🤖 The AI Handbook](#-the-ai-handbook)
-- [**A I   H A N D B O O K**](#a-i---h-a-n-d-b-o-o-k)
     - [*Your Ultimate Guide to AI Tools, Resources, and Mastery*](#your-ultimate-guide-to-ai-tools-resources-and-mastery)
   - [📖 About This Handbook](#-about-this-handbook)
   - [📑 Table of Contents](#-table-of-contents)
@@ -49,8 +48,9 @@ This handbook is a **curated compilation of AI tools, platforms, and learning re
     - [Guides \& Documentation](#guides--documentation)
   - [🌟 Community Resources](#-community-resources)
   - [🤝 Contributing](#-contributing)
-  - [💖 Support the Project](#-support-the-project)
-    - [**Master AI, not just use it!** 🚀](#master-ai-not-just-use-it-)
+  - [⭐ Support the Project](#-support-the-project)
+- [**Master AI, not just use it!** 🧠](#master-ai-not-just-use-it-)
+  - [📄 License](#-license)
 
 ---
 
@@ -181,42 +181,41 @@ Find the right AI tool for any task:
 
 ## 🤝 Contributing
 
-We welcome contributions to this handbook! Here's how you can help:
+We welcome contributions to make this AI handbook even better! Please check our [Contributing Guidelines](CONTRIBUTING.md) for details on:
 
-1. **⭐ Star this repo** to show your support
-2. **🔧 Submit new tools** - Found an amazing AI tool? Add it!
-3. **📝 Improve documentation** - Help make this guide more comprehensive
-4. **🐛 Report broken links** - Let us know if any resources are outdated
-5. **💡 Suggest categories** - Help us organize content better
+- 📋 How to contribute
+- 🎨 Style guidelines
+- 💬 Commit message conventions
+- 🔄 Pull request process
+- 📚 Topic guidelines
+- 🔍 Reporting issues
 
-**How to Contribute:**
-
-1. Fork this repository
-2. Create a new branch (`git checkout -b feature/AmazingTool`)
-3. Add your changes
-4. Commit your changes (`git commit -m 'Add AmazingTool'`)
-5. Push to the branch (`git push origin feature/AmazingTool`)
-6. Open a Pull Request
+Before contributing, please discuss your ideas to ensure they align with the project's goals.
 
 ---
 
-## 💖 Support the Project
+## ⭐ Support the Project
 
-If this handbook has helped you, consider:
-
-- ⭐ **Starring this repository**
-- 🔄 **Sharing it with others**
-- 🤝 **Contributing new resources**
-- 📢 **Spreading the word on social media**
-
----
+If this handbook helps you in your AI journey, please consider:
 
 <div align="center">
 
-### **Master AI, not just use it!** 🚀
-
-*Last Updated: November 2025*
-
-[![Star this repo](https://img.shields.io/github/stars/yourusername/The-AI-Handbook?style=social)](https://github.com/yourusername/The-AI-Handbook)
+[![Star this repo](https://img.shields.io/badge/⭐-STAR_THIS_REPO-yellow?style=for-the-badge&logo=github)](https://github.com/TharunKumarReddyPolu/The-AI-Handbook)
+[![Watch this repo](https://img.shields.io/badge/👁-WATCH_THIS_REPO-blue?style=for-the-badge&logo=github)](https://github.com/TharunKumarReddyPolu/The-AI-Handbook/subscription)
+[![Fork this repo](https://img.shields.io/badge/🔱-FORK_THIS_REPO-green?style=for-the-badge&logo=github)](https://github.com/TharunKumarReddyPolu/The-AI-Handbook/fork)
 
 </div>
+
+---
+
+# **Master AI, not just use it!** 🧠
+
+> **Inspired by the evolving AI landscape** with curated insights from resources like DeepLearning.AI, OpenAI, Anthropic, Google, and practical AI development experience. **Happy AI Building! 🚀**
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
