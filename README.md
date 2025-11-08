@@ -18,9 +18,6 @@
 ---
 
 ## 📑 Table of Contents
-- [🤖 The AI Handbook](#-the-ai-handbook)
-    - [*Your Ultimate Guide to AI Tools, Resources, and Mastery*](#your-ultimate-guide-to-ai-tools-resources-and-mastery)
-  - [📑 Table of Contents](#-table-of-contents)
   - [📖 About This Handbook](#-about-this-handbook)
   - [🚀 Quick Start](#-quick-start)
   - [🛠️ AI Tools \& Platforms](#️-ai-tools--platforms)
@@ -34,9 +31,6 @@
   - [📚 Learning Resources](#-learning-resources)
     - [Courses \& Tutorials](#courses--tutorials)
     - [Guides \& Documentation](#guides--documentation)
-  - [🤝 Contributing](#-contributing)
-  - [⭐ Support the Project](#-support-the-project)
-- [**Master AI, not just use it!** 🧠](#master-ai-not-just-use-it-)
 
 ---
 
