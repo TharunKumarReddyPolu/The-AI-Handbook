@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<img width="1713" height="597" alt="AI-Handbook-Cover" src="https://github.com/user-attachments/assets/c5e47a15-fed7-45ce-8241-05abe820d423" />
+
 ### *Your Ultimate Guide to AI Tools, Resources, and Mastery*
 
 [![GitHub stars](https://img.shields.io/github/stars/TharunKumarReddyPolu/The-AI-Handbook?style=flat&logo=github)](https://github.com/TharunKumarReddyPolu/The-AI-Handbook/stargazers)
@@ -15,25 +17,8 @@
 
 ---
 
-## 📖 About This Handbook
-
-This handbook is a **curated compilation of AI tools, platforms, and learning resources** designed for developers, AI enthusiasts, and professionals looking to leverage artificial intelligence in their work. Whether you're building AI agents, creating content, or mastering prompt engineering, this guide provides:
-
-- 🛠️ **AI Tools & Platforms**: Handpicked AI tools for various use cases
-- 📚 **Learning Resources**: Comprehensive courses, guides, and tutorials
-- 🤖 **AI Agents**: Tools for building autonomous AI systems
-- 🎨 **Creative AI**: Image generation, video creation, and design tools
-- 💻 **Development Tools**: Code generation, UI builders, and automation
-- 📊 **Specialized Applications**: From trading to technical documentation
-
----
-
 ## 📑 Table of Contents
-
-- [🤖 The AI Handbook](#-the-ai-handbook)
-    - [*Your Ultimate Guide to AI Tools, Resources, and Mastery*](#your-ultimate-guide-to-ai-tools-resources-and-mastery)
   - [📖 About This Handbook](#-about-this-handbook)
-  - [📑 Table of Contents](#-table-of-contents)
   - [🚀 Quick Start](#-quick-start)
   - [🛠️ AI Tools \& Platforms](#️-ai-tools--platforms)
     - [AI Chat \& LLM Platforms](#ai-chat--llm-platforms)
@@ -48,8 +33,19 @@ This handbook is a **curated compilation of AI tools, platforms, and learning re
     - [Guides \& Documentation](#guides--documentation)
   - [🤝 Contributing](#-contributing)
   - [⭐ Support the Project](#-support-the-project)
-- [**Master AI, not just use it!** 🧠](#master-ai-not-just-use-it-)
-  - [📄 License](#-license)
+
+---
+
+## 📖 About This Handbook
+
+This handbook is a **curated compilation of AI tools, platforms, and learning resources** designed for developers, AI enthusiasts, and professionals looking to leverage artificial intelligence in their work. Whether you're building AI agents, creating content, or mastering prompt engineering, this guide provides:
+
+- 🛠️ **AI Tools & Platforms**: Handpicked AI tools for various use cases
+- 📚 **Learning Resources**: Comprehensive courses, guides, and tutorials
+- 🤖 **AI Agents**: Tools for building autonomous AI systems
+- 🎨 **Creative AI**: Image generation, video creation, and design tools
+- 💻 **Development Tools**: Code generation, UI builders, and automation
+- 📊 **Specialized Applications**: From trading to technical documentation
 
 ---
 
