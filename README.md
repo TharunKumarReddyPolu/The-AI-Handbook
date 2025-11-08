@@ -19,7 +19,7 @@
 
 This handbook is a **curated compilation of AI tools, platforms, and learning resources** designed for developers, AI enthusiasts, and professionals looking to leverage artificial intelligence in their work. Whether you're building AI agents, creating content, or mastering prompt engineering, this guide provides:
 
-- 🛠️ **AI Tools & Platforms**: Over 50+ handpicked AI tools for various use cases
+- 🛠️ **AI Tools & Platforms**: Handpicked AI tools for various use cases
 - 📚 **Learning Resources**: Comprehensive courses, guides, and tutorials
 - 🤖 **AI Agents**: Tools for building autonomous AI systems
 - 🎨 **Creative AI**: Image generation, video creation, and design tools
@@ -46,7 +46,6 @@ This handbook is a **curated compilation of AI tools, platforms, and learning re
   - [📚 Learning Resources](#-learning-resources)
     - [Courses \& Tutorials](#courses--tutorials)
     - [Guides \& Documentation](#guides--documentation)
-  - [🌟 Community Resources](#-community-resources)
   - [🤝 Contributing](#-contributing)
   - [⭐ Support the Project](#-support-the-project)
 - [**Master AI, not just use it!** 🧠](#master-ai-not-just-use-it-)
@@ -171,14 +170,6 @@ Find the right AI tool for any task:
 
 ---
 
-## 🌟 Community Resources
-
-**GitHub Repositories:**
-
-- **[Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools)** - Curated list of AI tools and resources
-
----
-
 ## 🤝 Contributing
 
 We welcome contributions to make this AI handbook even better! Please check our [Contributing Guidelines](CONTRIBUTING.md) for details on:
@@ -217,5 +208,3 @@ If this handbook helps you in your AI journey, please consider:
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
