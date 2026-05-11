@@ -11,7 +11,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/TharunKumarReddyPolu/The-AI-Handbook)](https://github.com/TharunKumarReddyPolu/The-AI-Handbook/issues)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![AI Tools](https://img.shields.io/badge/AI%20Tools-150%2B-orange)
-![Sections](https://img.shields.io/badge/Sections-17%2B-brightgreen)
+![Sections](https://img.shields.io/badge/Sections-18%2B-brightgreen)
 [![Last Updated](https://img.shields.io/badge/last%20updated-May%202026-blue)](https://github.com/TharunKumarReddyPolu/The-AI-Handbook)
 
 </div>
@@ -95,6 +95,7 @@ This handbook is a **curated knowledge base of AI tools, platforms, and learning
 
 ### 📚 **Learn & Research**
 - [📚 Learning Resources](Topics/learning-resources.md) — Courses, guides, videos, and communities to master AI
+- [🎙️ AI Podcasts](Topics/ai-podcasts.md) — Best AI podcasts for engineers, founders, and the AI-curious
 - [🔬 AI Benchmarks & Leaderboards](Topics/ai-benchmarks-leaderboards.md) — Track and compare AI model performance
 - [📊 AI Data & Research](Topics/ai-data-research.md) — Essential platforms for AI research and datasets
 - [🧠 AI Glossary](Topics/ai-glossary.md) — Quick-reference definitions for AI terms

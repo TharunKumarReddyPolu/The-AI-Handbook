@@ -60,9 +60,10 @@ Builders and curators pushing the AI ecosystem forward:
 |---|---|
 | **[Peter Steinberger](https://github.com/steipete)** | Creator of OpenClaw — prolific open-source builder |
 | **[alternbits](https://github.com/alternbits)** | Discover AI tools and products |
-| **[Latent Space Podcast](https://www.latent.space/)** | The definitive AI engineering podcast |
-| **[Dwarkesh Podcast](https://www.dwarkeshpatel.com/)** | Long-form interviews with AI frontier researchers |
-| **[Machine Learning Street Talk](https://www.youtube.com/@MLST)** | Technical deep-dives into AI research papers |
+| **[Vaibhav Sisinty](https://www.youtube.com/@vaibhavsisinty)** | AI tool tutorials, GrowthSchool founder — LinkedIn Top Voice |
+| **[GrowthSchool](https://growthschool.io/)** | Structured AI workshops and masterclasses by Vaibhav Sisinty |
+
+> 🎙️ **Looking for AI Podcasts?** We now have a dedicated page → **[AI Podcasts](ai-podcasts.md)** — 13 curated shows for engineers, founders, and the AI-curious.
 
 ---
 
