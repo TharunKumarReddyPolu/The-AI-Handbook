@@ -157,20 +157,29 @@ Our handbook follows this structure:
 
 ```
 README.md
+├── Why Bookmark This Repo?
 ├── About This Handbook
 ├── Quick Start
 ├── AI Tools & Platforms
 │   ├── AI Chat & LLM Platforms
 │   ├── AI Agents & Automation
-│   ├── Development & Code Generation
+│   ├── AI Coding Assistants
+│   ├── Development & UI Builders
 │   ├── Creative & Content Generation
-│   ├── Productivity & Documentation
+│   ├── Productivity & Knowledge Management
+│   ├── AI Wearables & Hardware
+│   ├── AI for Business & Commerce
 │   ├── Specialized AI Tools
 │   └── AI Tool Discovery
+├── MCP Ecosystem
+├── Run AI Locally
+├── Open Source Highlights
 ├── Learning Resources
 │   ├── Courses & Tutorials
-│   └── Guides & Documentation
-├── Community Resources
+│   ├── Guides & Documentation
+│   ├── Video Resources
+│   └── Community & People to Follow
+├── AI Glossary
 ├── Contributing
 └── Support the Project
 ```
@@ -290,13 +299,20 @@ Consider these factors:
 
 Place tools in the most appropriate category:
 
-- **AI Chat & LLM Platforms** - Language model access
-- **AI Agents & Automation** - Autonomous systems
-- **Development & Code Generation** - Coding assistants
-- **Creative & Content Generation** - Image, video, audio
-- **Productivity & Documentation** - Work enhancement
-- **Specialized AI Tools** - Domain-specific applications
-- **AI Tool Discovery** - Finding AI tools
+- **AI Chat & LLM Platforms** — Language model access and comparison
+- **AI Agents & Automation** — Autonomous systems and workflow automation
+- **AI Coding Assistants** — Code-focused AI tools and IDE integrations
+- **Development & UI Builders** — Rapid app and UI development
+- **Creative & Content Generation** — Image, video, audio, presentations
+- **Productivity & Knowledge Management** — Work enhancement and knowledge tools
+- **AI Wearables & Hardware** — Physical AI devices
+- **AI for Business & Commerce** — Trading, ads, e-commerce
+- **Specialized AI Tools** — Domain-specific applications
+- **AI Tool Discovery** — Finding AI tools
+- **MCP Ecosystem** — Model Context Protocol tools
+- **Run AI Locally** — Local/on-device AI tools
+- **Open Source Highlights** — Notable open-source AI repositories
+- **AI Glossary** — Term definitions
 
 ---
 
