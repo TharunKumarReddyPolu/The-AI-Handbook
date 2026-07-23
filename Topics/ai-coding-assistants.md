@@ -19,6 +19,7 @@
 |---|---|
 | **[OpenCode](https://github.com/anomalyco/opencode)** | Open-source Claude Code alternative ([why devs love it](https://www.xda-developers.com/i-use-opencode-over-claude-code-and-its-every-bit-as-good/)) |
 | **[OpenClaw](https://openclaw.ai/)** | Personal AI assistant for developers |
+| **[Hermes Agent](https://hermes-agent.nousresearch.com/)** | Open-source personal AI assistant — an OpenClaw alternative by Nous Research |
 | **[OpenSwarm](https://github.com/VRSEN/OpenSwarm)** | Fully open-source multi-agent system for complex dev tasks |
 | **[gstack](https://github.com/garrytan/gstack)** | YC CEO Garry Tan's Claude Code setup |
 | **[Google Workspace CLI](https://github.com/googleworkspace/cli)** | CLI for Google Workspace (for humans & agents) |
