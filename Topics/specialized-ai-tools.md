@@ -13,6 +13,8 @@
 | **[Julius.ai](https://julius.ai/)** | AI data analyst — upload data, get insights |
 | **[Happenstance.ai](https://happenstance.ai/)** | Deep search engine to find people |
 | **[Career-Ops](https://github.com/santifer/career-ops)** | Open-source AI-powered job search system |
+| **[AI Job Search](https://github.com/MadsLorentzen/ai-job-search)** | Open-source AI-driven job search workflow [(Repo)](https://github.com/MadsLorentzen/ai-job-search) |
+| **[Karpathy Jobs Board](https://karpathy.ai/jobs/)** | Curated AI/ML jobs board by Andrej Karpathy |
 | **[Burnermail.io](https://burnermail.io/)** | Disposable email addresses for privacy |
 | **[GPD-val](https://openai.com/index/gdpval/)** | Evaluate AI models through benchmarks (by OpenAI) |
 

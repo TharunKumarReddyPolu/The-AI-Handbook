@@ -13,6 +13,7 @@
 | **[Feedly](https://feedly.com/)** | AI-curated news feed to stay updated |
 | **[Fireflies.ai](https://fireflies.ai/)** | AI meeting assistant and transcription |
 | **[Granola.ai](https://www.granola.ai/)** | AI meeting note taker app |
+| **[Meetily](https://github.com/Zackriya-Solutions/meetily)** | Local-first meeting assistant — runs on-device for full privacy ([GitHub](https://github.com/Zackriya-Solutions/meetily)) |
 | **[SuperFill.ai](https://superfill.ai/)** | Fill forms with AI |
 | **[Voice Ink](https://tryvoiceink.com/)** | Text-to-speech for Mac |
 | **[Wisprflow.ai](https://wisprflow.ai/)** | Voice typing alternative (Mac, Windows, iPhone) |

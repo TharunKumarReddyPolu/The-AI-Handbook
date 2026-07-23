@@ -71,6 +71,8 @@
 | Term | Definition |
 |---|---|
 | **Guesstimate** | An estimate arrived at by a combination of guesswork and calculation |
+| **Observed Exposure** | Anthropic's measure of how much human work AI is actually displacing in the labor market — see [Anthropic's research](https://www.anthropic.com/research/labor-market-impacts) |
+| **Dyson Sphere** | A hypothetical megastructure enclosing a star to capture its energy — a popular metaphor for civilization-scale energy/compute ambition in AI scaling discussions ([Wikipedia](https://en.wikipedia.org/wiki/Dyson_sphere)) |
 
 ---
 

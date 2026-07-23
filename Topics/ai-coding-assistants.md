@@ -28,6 +28,19 @@
 | **[GitHub Copilot](https://github.com/features/copilot)** | Enterprise-ready AI pair programmer for VS Code and IDEs |
 | **[Claude Code](https://docs.anthropic.com/en/docs/claude-code)** | Anthropic's terminal-native autonomous coding agent |
 | **[Aider](https://aider.chat/)** | Open-source terminal AI pair programmer for Git repos |
+| **[Goose](https://github.com/aaif-goose/goose)** | Open-source coding & general-purpose AI agent |
+| **[FreeBuff](https://freebuff.com/)** | Free AI coding agent |
+| **[free-claude-code](https://github.com/alishahryar1/free-claude-code)** | Use Claude Code for free via a local proxy to LLM providers |
+
+---
+
+## 🧩 Companion Tools for AI Coding
+
+| Tool | Description |
+|---|---|
+| **[Headroom](https://github.com/chopratejas/headroom)** | Context compression layer for AI agents — fit more in the context window |
+| **[Claude Code Mastery](https://arps18.github.io/posts/claude-code-mastery/)** | Deep guide to getting the most out of Claude Code |
+| **[Floci](https://github.com/floci-io/floci)** | Free AWS emulator — test AWS-dependent AI apps locally |
 
 ---
 
@@ -59,6 +72,8 @@
 | Terminal-native agent | Claude Code, Aider |
 | Enterprise compliance | GitHub Copilot |
 | Multi-agent dev tasks | OpenSwarm |
+| Free / local-proxy coding | free-claude-code, FreeBuff |
+| Squeezing more into context | Headroom |
 
 ---
 

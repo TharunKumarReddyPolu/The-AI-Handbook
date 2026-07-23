@@ -10,6 +10,12 @@
 |---|---|---|
 | **[OpenCode](https://github.com/anomalyco/opencode)** | Claude Code alternative — terminal-based AI coding | ![Stars](https://img.shields.io/github/stars/anomalyco/opencode?style=social) |
 | **[OpenSwarm](https://github.com/VRSEN/OpenSwarm)** | Open-source multi-agent system | ![Stars](https://img.shields.io/github/stars/VRSEN/OpenSwarm?style=social) |
+| **[Goose](https://github.com/aaif-goose/goose)** | Open-source coding & general-purpose AI agent | ![Stars](https://img.shields.io/github/stars/aaif-goose/goose?style=social) |
+| **[Meetily](https://github.com/Zackriya-Solutions/meetily)** | Local-first AI meeting assistant | ![Stars](https://img.shields.io/github/stars/Zackriya-Solutions/meetily?style=social) |
+| **[AI Job Search](https://github.com/MadsLorentzen/ai-job-search)** | Open-source AI-powered job search | ![Stars](https://img.shields.io/github/stars/MadsLorentzen/ai-job-search?style=social) |
+| **[free-claude-code](https://github.com/alishahryar1/free-claude-code)** | Free Claude Code via local proxy to LLM providers | ![Stars](https://img.shields.io/github/stars/alishahryar1/free-claude-code?style=social) |
+| **[Headroom](https://github.com/chopratejas/headroom)** | Context compression layer for AI agents | ![Stars](https://img.shields.io/github/stars/chopratejas/headroom?style=social) |
+| **[Floci](https://github.com/floci-io/floci)** | Free AWS emulator for local testing | ![Stars](https://img.shields.io/github/stars/floci-io/floci?style=social) |
 | **[Career-Ops](https://github.com/santifer/career-ops)** | AI-powered job search system | ![Stars](https://img.shields.io/github/stars/santifer/career-ops?style=social) |
 | **[Paperclip](https://github.com/paperclipai/paperclip)** | Open-source AI orchestration | ![Stars](https://img.shields.io/github/stars/paperclipai/paperclip?style=social) |
 | **[gstack](https://github.com/garrytan/gstack)** | Garry Tan's (YC CEO) Claude Code setup | ![Stars](https://img.shields.io/github/stars/garrytan/gstack?style=social) |

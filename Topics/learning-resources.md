@@ -36,6 +36,9 @@
 | **[Nano Banana Pro Prompting Guide](https://dev.to/googleai/nano-banana-pro-prompting-guide-strategies-1h9n)** | Prompting strategies for Google's models |
 | **[Mastering AI-Powered Development](https://manish-ai.notion.site/Mastering-AI-Powered-Development-A-Deep-Dive-into-Prompt-Engineering-for-Vo-Lovable-dev-Replit-a-1fb32b43b76f8043a551fcc36e612b18)** | Deep dive into prompt engineering for Lovable, Replit, and more |
 | **[Roadmap to Becoming an AI Generalist](https://www.notion.so/Roadmap-to-Becoming-an-AI-Generalist-2544c7c28246809cb971e0c651a940d2)** | Complete learning path from beginner to AI generalist |
+| **[Claude Code Mastery](https://arps18.github.io/posts/claude-code-mastery/)** | In-depth guide to mastering Claude Code as an agent |
+| **[Loop Engineering](https://github.com/cobusgreyling/loop-engineering)** | Practical patterns for engineering agentic loops (by Cobus Greyling) |
+| **[Loop Library (ForwardFuture Signals)](https://signals.forwardfuture.com/loop-library/)** | A practical, reusable library of agent loops |
 
 ---
 

@@ -20,6 +20,7 @@
 | **[NotebookLM](https://notebooklm.google/)** | Google's AI-powered research assistant |
 | **[OpenRouter](https://openrouter.ai/)** | Unified API gateway for multiple AI models |
 | **[GetMulti.ai](https://getmulti.ai/)** | Every AI model side by side for comparison |
+| **[Kickbacks.ai](https://kickbacks.ai/)** | Get paid while you wait for Claude responses & credits |
 | **[Design Arena](https://www.designarena.ai/)** | Use various AI models for free |
 | **[LM Arena](https://lmarena.ai/)** | Compare and benchmark different language models |
 | **[Perplexity Model Council](https://www.perplexity.ai/hub/blog/introducing-model-council)** | Where AI models debate to give you an answer |
