@@ -23,6 +23,7 @@
 | **[Google Workspace CLI](https://github.com/googleworkspace/cli)** | CLI for Google Workspace (humans & agents) | ![Stars](https://img.shields.io/github/stars/googleworkspace/cli?style=social) |
 | **[Playwright](https://github.com/microsoft/playwright)** | Browser automation framework by Microsoft | ![Stars](https://img.shields.io/github/stars/microsoft/playwright?style=social) |
 | **[Google AI Edge Gallery](https://github.com/google-ai-edge/gallery)** | Run Google OSS models on mobile | ![Stars](https://img.shields.io/github/stars/google-ai-edge/gallery?style=social) |
+| **[OmniRoute](https://github.com/diegosouzapw/OmniRoute)** | Self-hosted AI gateway for 290+ providers with auto-fallback and token compression | ![Stars](https://img.shields.io/github/stars/diegosouzapw/OmniRoute?style=social) |
 | **[Ollama](https://github.com/ollama/ollama)** | Run LLMs locally with one command | ![Stars](https://img.shields.io/github/stars/ollama/ollama?style=social) |
 | **[llama.cpp](https://github.com/ggerganov/llama.cpp)** | High-performance C++ LLM inference engine | ![Stars](https://img.shields.io/github/stars/ggerganov/llama.cpp?style=social) |
 | **[Open WebUI](https://github.com/open-webui/open-webui)** | Self-hosted ChatGPT-like UI for local models | ![Stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social) |

@@ -42,6 +42,7 @@
 | **[Headroom](https://github.com/chopratejas/headroom)** | Context compression layer for AI agents — fit more in the context window |
 | **[Claude Code Mastery](https://arps18.github.io/posts/claude-code-mastery/)** | Deep guide to getting the most out of Claude Code |
 | **[Floci](https://github.com/floci-io/floci)** | Free AWS emulator — test AWS-dependent AI apps locally |
+| **[OmniRoute](https://github.com/diegosouzapw/OmniRoute)** | AI gateway for 290+ providers — routes coding agent requests across providers with auto-fallback and token compression |
 
 ---
 

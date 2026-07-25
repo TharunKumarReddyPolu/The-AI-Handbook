@@ -25,6 +25,7 @@
 | **[Jan](https://jan.ai/)** | Windows, Mac, Linux | Privacy-first, offline ChatGPT alternative |
 | **[Open WebUI](https://github.com/open-webui/open-webui)** | Web (self-hosted) | ChatGPT-like interface for local models (pairs with Ollama) |
 | **[LocalAI](https://localai.io/)** | Windows, Mac, Linux | Self-hosted drop-in OpenAI API replacement |
+| **[OmniRoute](https://github.com/diegosouzapw/OmniRoute)** | Windows, Mac, Linux, Android | Self-hosted AI gateway routing 290+ providers with auto-fallback, token compression, and zero-config keyless access |
 
 ---
 
