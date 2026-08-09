@@ -22,6 +22,7 @@
 | **[GenSpark](https://www.genspark.ai/)** | No-code AI agent builder |
 | **[Browser Use](https://browser-use.com/)** | Browser AI agent for web automation |
 | **[Microsoft Playwright](https://github.com/microsoft/playwright)** | Free browser automation framework |
+| **[Agent-Reach](https://github.com/Panniantong/agent-reach)** | AI agent that can browse the entire internet |
 | **[General Agents](https://generalagents.com/)** | AI computer autopilot |
 | **[Relevance AI](https://relevanceai.com/)** | Build and deploy AI agents |
 | **[Meet Emily](https://meetemily.ai/)** | AI assistant for task automation |

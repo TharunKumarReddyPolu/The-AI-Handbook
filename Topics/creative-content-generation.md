@@ -22,6 +22,7 @@
 | **[Stability AI](https://stability.ai/)** | Image and video generation models |
 | **[HeyGen](https://www.heygen.com/)** | Create AI videos with your avatar |
 | **[ElevenLabs](https://elevenlabs.io/)** | Advanced text-to-speech and voice cloning |
+| **[VoiceBox](https://github.com/jamiepine/voicebox)** | Open-source AI voice studio — self-hosted audio generation and cloning |
 | **[Gamma](https://gamma.app/)** | AI design partner for presentations |
 | **[Chronicle HQ](https://chroniclehq.com/)** | AI-powered presentation maker |
 | **[Napkin.ai](https://www.napkin.ai/)** | Generate visuals from plain text |

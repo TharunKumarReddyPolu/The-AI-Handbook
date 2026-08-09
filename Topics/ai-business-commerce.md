@@ -12,6 +12,7 @@
 | **[Madgicx](https://madgicx.com/)** | Run AI-powered ads |
 | **[Pietrastudio](https://www.pietrastudio.com/)** | Private AI brain for commerce |
 | **[Crystal Knows](https://www.crystalknows.com/)** | Personality data platform for sales and teams |
+| **[GenOffice](https://github.com/genspark-ai/genoffice)** | Open-source AI-native office suite — docs, spreadsheets, slides, and PDF ([GitHub](https://github.com/genspark-ai/genoffice)) |
 
 ---
 
