@@ -12,6 +12,9 @@
 | **[AIxploria](https://www.aixploria.com/en/)** | Google for AI tools |
 | **[Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools)** | Curated GitHub repository of AI tools |
 | **[Awesome Nano Banana Pro](https://github.com/ZeroLu/awesome-nanobanana-pro)** | Community-curated Gemini resources |
+| **[Agent Skills](https://skills.rest/)** | Directory of agent skills — browse and discover skills for Claude Code and other agent harnesses |
+| **[Awesome Agent Skills](https://github.com/VoltAgent/awesome-agent-skills)** | Curated list of agent skills from VoltAgent |
+| **[Alternbits](https://github.com/alternbits)** | Discover AI tools and products |
 
 ---
 

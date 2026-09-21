@@ -73,6 +73,8 @@
 | **Guesstimate** | An estimate arrived at by a combination of guesswork and calculation |
 | **Observed Exposure** | Anthropic's measure of how much human work AI is actually displacing in the labor market — see [Anthropic's research](https://www.anthropic.com/research/labor-market-impacts) |
 | **Dyson Sphere** | A hypothetical megastructure enclosing a star to capture its energy — a popular metaphor for civilization-scale energy/compute ambition in AI scaling discussions ([Wikipedia](https://en.wikipedia.org/wiki/Dyson_sphere)) |
+| **Project Panama** | Reference term noted during AI infrastructure research — see [Wikipedia](https://en.wikipedia.org/wiki/Project_Panama) |
+| **HBM** | High Bandwidth Memory — stacked DRAM that gives AI accelerators (GPUs/TPUs) the memory bandwidth large models demand; a key bottleneck in AI hardware scaling ([Wikipedia](https://en.wikipedia.org/wiki/High_Bandwidth_Memory)) |
 
 ---
 

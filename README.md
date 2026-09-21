@@ -12,7 +12,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![AI Tools](https://img.shields.io/badge/AI%20Tools-150%2B-orange)
 ![Sections](https://img.shields.io/badge/Sections-18%2B-brightgreen)
-[![Last Updated](https://img.shields.io/badge/last%20updated-July%202026-blue)](https://github.com/TharunKumarReddyPolu/The-AI-Handbook)
+[![Last Updated](https://img.shields.io/badge/last%20updated-September%202026-blue)](https://github.com/TharunKumarReddyPolu/The-AI-Handbook)
 
 </div>
 

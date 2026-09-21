@@ -23,6 +23,8 @@
 | **[SWE-bench](https://www.swebench.com/)** | Real-world coding benchmark for agentic AI |
 | **[GPQA Diamond](https://github.com/idavidrein/gpqa)** | Graduate-level science reasoning benchmark |
 | **[ARC-AGI](https://arcprize.org/)** | Fluid intelligence and novel reasoning test |
+| **[GDPval](https://openai.com/index/gdpval/)** | OpenAI's benchmark for evaluating AI models on real-world, economically valuable tasks |
+| **[Perplexity Model Council](https://www.perplexity.ai/hub/blog/introducing-model-council)** | Multiple AI models debate and cross-examine each other to reach an answer |
 
 ---
 
