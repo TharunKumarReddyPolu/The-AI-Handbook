@@ -6,6 +6,7 @@ desktop.ini
 # Editor files
 .vscode/
 .idea/
+.freebuff/
 *.swp
 *.swo
 *~

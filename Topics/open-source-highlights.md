@@ -21,6 +21,7 @@
 | **[Ponytail](https://github.com/DietrichGebert/ponytail)** | Claude Code plugin that makes agents think like the laziest senior dev | ![Stars](https://img.shields.io/github/stars/DietrichGebert/ponytail?style=social) |
 | **[Floci](https://github.com/floci-io/floci)** | Free AWS emulator for local testing | ![Stars](https://img.shields.io/github/stars/floci-io/floci?style=social) |
 | **[Career-Ops](https://github.com/santifer/career-ops)** | AI-powered job search system | ![Stars](https://img.shields.io/github/stars/santifer/career-ops?style=social) |
+| **[LinkedIn Skills](https://github.com/sergebulaev/linkedin-skills)** | 12 Claude Code, Codex, and OpenClaw skills for writing human-sounding LinkedIn posts and comments | ![Stars](https://img.shields.io/github/stars/sergebulaev/linkedin-skills?style=social) |
 | **[Paperclip](https://github.com/paperclipai/paperclip)** | Open-source AI orchestration | ![Stars](https://img.shields.io/github/stars/paperclipai/paperclip?style=social) |
 | **[gstack](https://github.com/garrytan/gstack)** | Garry Tan's (YC CEO) Claude Code setup | ![Stars](https://img.shields.io/github/stars/garrytan/gstack?style=social) |
 | **[Context7](https://github.com/upstash/context7)** | Up-to-date docs for LLMs via MCP | ![Stars](https://img.shields.io/github/stars/upstash/context7?style=social) |

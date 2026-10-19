@@ -84,30 +84,30 @@ git checkout -b fix/update-broken-link
 
 ### Adding a New AI Tool
 
-When adding a new tool to the README.md, please follow this format:
+When adding a new tool to the appropriate topic file inside `Topics/`, please follow the Markdown table format:
 
 ```markdown
-- **[Tool Name](https://tool-url.com)** - Brief description of what the tool does
+| **[Tool Name](https://tool-url.com)** | Brief description of what the tool does |
 ```
 
 **Example:**
 
 ```markdown
-- **[ChatGPT](https://chat.openai.com/)** - Conversational AI powered by GPT-4
+| **[ChatGPT](https://chat.openai.com/)** | OpenAI's flagship AI chatbot with deep research and voice mode |
 ```
 
 ### Adding a Learning Resource
 
-For courses or tutorials:
+For courses, guides, or tutorials in `Topics/learning-resources.md`:
 
 ```markdown
-- **[Course/Resource Name](https://course-url.com)** - Brief description of what you'll learn
+| **[Course/Resource Name](https://course-url.com)** | Provider | Brief description of what you'll learn |
 ```
 
 **Example:**
 
 ```markdown
-- **[Prompt Engineering Masterclass](https://example.com)** - Comprehensive guide to crafting effective AI prompts
+| **[Multi AI Agent Systems with CrewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)** | DeepLearning.AI | Building multi-agent systems |
 ```
 
 ---
@@ -153,69 +153,66 @@ For courses or tutorials:
 
 ## 📋 Content Structure
 
-Our handbook follows this structure:
+Our handbook follows this modular structure:
 
 ```
-README.md
-├── Why Bookmark This Repo?
-├── About This Handbook
-├── Quick Start
-├── AI Tools & Platforms
-│   ├── AI Chat & LLM Platforms
-│   ├── AI Agents & Automation
-│   ├── AI Coding Assistants
-│   ├── Development & UI Builders
-│   ├── Creative & Content Generation
-│   ├── Productivity & Knowledge Management
-│   ├── AI Wearables & Hardware
-│   ├── AI for Business & Commerce
-│   ├── Specialized AI Tools
-│   └── AI Tool Discovery
-├── MCP Ecosystem
-├── Run AI Locally
-├── Open Source Highlights
-├── Learning Resources
-│   ├── Courses & Tutorials
-│   ├── Guides & Documentation
-│   ├── Video Resources
-│   └── Community & People to Follow
-├── AI Glossary
-├── Contributing
-└── Support the Project
+The-AI-Handbook/
+├── README.md
+└── Topics/
+    ├── ai-chat-llm-platforms.md
+    ├── ai-agents-automation.md
+    ├── ai-coding-assistants.md
+    ├── development-ui-builders.md
+    ├── creative-content-generation.md
+    ├── productivity-knowledge-management.md
+    ├── ai-wearables-hardware.md
+    ├── ai-business-commerce.md
+    ├── specialized-ai-tools.md
+    ├── ai-tool-discovery.md
+    ├── mcp-ecosystem.md
+    ├── run-ai-locally.md
+    ├── open-source-highlights.md
+    ├── learning-resources.md
+    ├── ai-podcasts.md
+    ├── ai-benchmarks-leaderboards.md
+    ├── ai-data-research.md
+    └── ai-glossary.md
 ```
 
-Place your contributions in the appropriate section.
+Place your contributions in the appropriate topic file inside `Topics/`.
 
 ---
 
 ## 🧪 Tool Examples
 
-### Example 1: Adding to AI Agents Category
+### Example 1: Adding to AI Agents Category (`Topics/ai-agents-automation.md`)
 
 **Current Section:**
 ```markdown
-### AI Agents & Automation
+## 🛠️ Tools & Platforms
 
-Tools for building autonomous AI systems:
+| Tool | Description |
+|---|---|
 ```
 
 **Your Addition:**
 ```markdown
-- **[New AI Agent](https://newagent.com)** - Autonomous agent for task automation
+| **[New AI Agent](https://newagent.com)** | Autonomous agent for task automation |
 ```
 
-### Example 2: Adding a New Learning Resource
+### Example 2: Adding a New Learning Resource (`Topics/learning-resources.md`)
 
 **Current Section:**
 ```markdown
-### Courses & Tutorials
+## 📖 Guides & Documentation
 
-**Comprehensive Courses:**
+| Guide | Description |
+|---|---|
 ```
 
 **Your Addition:**
 ```markdown
-- **[Advanced AI Development](https://course.com)** - Master AI application development
+| **[Advanced AI Development](https://course.com)** | Master AI application development |
 ```
 
 ---
@@ -312,6 +309,10 @@ Place tools in the most appropriate category:
 - **MCP Ecosystem** — Model Context Protocol tools
 - **Run AI Locally** — Local/on-device AI tools
 - **Open Source Highlights** — Notable open-source AI repositories
+- **Learning Resources** — Courses, guides, videos, and communities
+- **AI Podcasts** — Curated AI podcasts and creators to follow
+- **AI Benchmarks & Leaderboards** — Model evaluation and performance leaderboards
+- **AI Data & Research** — Datasets, papers, and ML research platforms
 - **AI Glossary** — Term definitions
 
 ---
@@ -358,7 +359,7 @@ If you notice outdated information:
 
 ### Questions?
 
-- **General Questions**: Open an [issue](https://github.com/yourusername/The-AI-Handbook/issues)
+- **General Questions**: Open an [issue](https://github.com/TharunKumarReddyPolu/The-AI-Handbook/issues)
 - **Specific Contributions**: Comment on the relevant issue/PR
 - **Security Issues**: Contact maintainers privately
 

@@ -63,6 +63,7 @@ The community plugin/skill ecosystem is where Claude Code really shines — thes
 | **[Grill Me](https://github.com/RobMitt/grill-me-skill)** | Interviews you relentlessly until you reach a shared understanding of your idea |
 | **[Systematic Debugging](https://github.com/obra/superpowers)** | A rigorous, non-guessing debugging methodology for bugs — part of the Superpowers pack |
 | **[Rubber Duck Tutor](https://github.com/fantom87/rubberduck)** | Rubber duck debugging where the duck answers — a local programming tutor |
+| **[LinkedIn Skills](https://github.com/sergebulaev/linkedin-skills)** | 12 skills for Claude Code, Codex, OpenClaw, and Hermes that draft LinkedIn posts and comments in your voice |
 
 ---
 

@@ -16,7 +16,7 @@
 | **[AI Job Search](https://github.com/MadsLorentzen/ai-job-search)** | Open-source AI-driven job search workflow [(Repo)](https://github.com/MadsLorentzen/ai-job-search) |
 | **[Karpathy Jobs Board](https://karpathy.ai/jobs/)** | Curated AI/ML jobs board by Andrej Karpathy |
 | **[Burnermail.io](https://burnermail.io/)** | Disposable email addresses for privacy |
-| **[GPD-val](https://openai.com/index/gdpval/)** | Evaluate AI models through benchmarks (by OpenAI) |
+| **[GDPval](https://openai.com/index/gdpval/)** | OpenAI's benchmark for evaluating AI models on real-world, economically valuable tasks |
 
 ---
 

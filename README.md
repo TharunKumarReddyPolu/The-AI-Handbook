@@ -10,9 +10,9 @@
 [![GitHub forks](https://img.shields.io/github/forks/TharunKumarReddyPolu/The-AI-Handbook?style=social)](https://github.com/TharunKumarReddyPolu/The-AI-Handbook/network/members)
 [![GitHub issues](https://img.shields.io/github/issues/TharunKumarReddyPolu/The-AI-Handbook)](https://github.com/TharunKumarReddyPolu/The-AI-Handbook/issues)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-![AI Tools](https://img.shields.io/badge/AI%20Tools-150%2B-orange)
+![AI Tools](https://img.shields.io/badge/AI%20Tools-190%2B-orange)
 ![Sections](https://img.shields.io/badge/Sections-18%2B-brightgreen)
-[![Last Updated](https://img.shields.io/badge/last%20updated-September%202026-blue)](https://github.com/TharunKumarReddyPolu/The-AI-Handbook)
+[![Last Updated](https://img.shields.io/badge/last%20updated-October%202026-blue)](https://github.com/TharunKumarReddyPolu/The-AI-Handbook)
 
 </div>
 
@@ -35,7 +35,7 @@
 
 This handbook is a **curated knowledge base of AI tools, platforms, and learning resources** designed for **developers, AI enthusiasts, and professionals** who want a single reference they can rely on. Each topic is presented in a rich, standalone format covering:
 
-- 🛠️ **Tool & Platform Tables** — 150+ handpicked tools across every category
+- 🛠️ **Tool & Platform Tables** — 190+ handpicked tools across every category
 - 🔑 **Key Concepts** — Core terminology and concepts explained clearly
 - 💡 **Pro Tips** — Practical advice on when and how to use each tool
 - 🎯 **Decision Guides** — "When to Use What" tables for quick choices
@@ -50,14 +50,14 @@ This handbook is a **curated knowledge base of AI tools, platforms, and learning
 
 | Feature | Description |
 |---------|-------------|
-| 🛠️ **150+ AI Tools** | Handpicked tools across 17+ categories with descriptions and links |
+| 🛠️ **190+ AI Tools** | Handpicked tools across 18 categories with descriptions and links |
 | 💡 **Pro Tips & Decision Guides** | Practical advice on when and how to use each tool |
 | 🔑 **Key Concepts** | Core terminology explained in every topic |
 | 🔌 **MCP Ecosystem** | Complete guide to Model Context Protocol servers, clients, and registries |
 | 🏃 **Run AI Locally** | Tools and hardware recommendations for local inference |
 | 🔓 **Open Source Spotlights** | Repos worth starring — with live GitHub star counts |
 | 📚 **Learning Paths** | Structured roadmaps from beginner to AI generalist |
-| 🧠 **Categorized Glossary** | 27 AI terms organized by topic (Agents, Training, Reasoning, Safety) |
+| 🧠 **Categorized Glossary** | 30 AI terms organized by topic (Agents, Training, Reasoning, Safety, Hardware) |
 | 🔬 **Benchmarks & Leaderboards** | Track and compare AI model performance |
 | 📊 **Data & Research** | Essential platforms for AI research and datasets |
 
