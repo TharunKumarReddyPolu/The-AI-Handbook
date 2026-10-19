@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 📖 Contributing Guidelines
+    url: https://github.com/TharunKumarReddyPolu/The-AI-Handbook/blob/main/CONTRIBUTING.md
+    about: Read our formatting and category guide before opening a pull request.

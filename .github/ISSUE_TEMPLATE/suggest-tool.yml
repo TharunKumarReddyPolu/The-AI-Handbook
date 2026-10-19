@@ -1,0 +1,83 @@
+name: 🚀 Suggest an AI Tool or Resource
+description: Propose a new AI tool, open-source repo, MCP server, course, benchmark, or glossary term for The AI Handbook.
+title: "[Tool]: "
+labels: ["enhancement", "tool-suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping grow **The AI Handbook**! 🙌
+        Please fill out the details below so we can review and add your suggestion to the right topic guide.
+
+  - type: input
+    id: name
+    attributes:
+      label: Tool / Resource Name
+      description: The official name of the tool, repository, course, or resource.
+      placeholder: e.g., OpenHands
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: Official URL (and GitHub Repo if Open Source)
+      description: Provide the canonical website URL and/or GitHub repository link.
+      placeholder: e.g., https://www.openhands.dev/ (https://github.com/OpenHands/OpenHands)
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Topic Category
+      description: Which topic file in `Topics/` does this belong to?
+      options:
+        - 💬 AI Chat & LLM Platforms (Topics/ai-chat-llm-platforms.md)
+        - 🤖 AI Agents & Automation (Topics/ai-agents-automation.md)
+        - 💻 AI Coding Assistants & Plugins (Topics/ai-coding-assistants.md)
+        - 🏗️ Development & UI Builders (Topics/development-ui-builders.md)
+        - 🎨 Creative & Content Generation (Topics/creative-content-generation.md)
+        - 📋 Productivity & Knowledge Management (Topics/productivity-knowledge-management.md)
+        - ⌚ AI Wearables & Hardware (Topics/ai-wearables-hardware.md)
+        - 💼 AI for Business & Commerce (Topics/ai-business-commerce.md)
+        - 🔧 Specialized AI Tools — Voice, Evals, Sandboxes (Topics/specialized-ai-tools.md)
+        - 🔍 AI Tool Discovery (Topics/ai-tool-discovery.md)
+        - 🔌 MCP Ecosystem (Topics/mcp-ecosystem.md)
+        - 🏃 Run AI Locally (Topics/run-ai-locally.md)
+        - 🔓 Open Source Highlights (Topics/open-source-highlights.md)
+        - 📚 Learning Resources (Topics/learning-resources.md)
+        - 🎙️ AI Podcasts (Topics/ai-podcasts.md)
+        - 🔬 AI Benchmarks & Leaderboards (Topics/ai-benchmarks-leaderboards.md)
+        - 📊 AI Data, RAG & Fine-Tuning (Topics/ai-data-research.md)
+        - 🧠 AI Glossary (Topics/ai-glossary.md)
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Concise Description (1 Sentence)
+      description: Write a clear, objective 1-sentence description matching the handbook's table style (no marketing fluff).
+      placeholder: e.g., Open-source platform for autonomous cloud and local software development agents.
+    validations:
+      required: true
+
+  - type: textarea
+    id: why
+    attributes:
+      label: Why should this be included?
+      description: What makes this tool notable, widely adopted, or uniquely useful?
+      placeholder: Share adoption signals, key capabilities, or how it compares to existing entries.
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Pre-submission Checks
+      options:
+        - label: I searched the repository to make sure this tool is not already listed.
+          required: true
+        - label: The link is live, publicly accessible, and points to the official source.
+          required: true

@@ -1,0 +1,69 @@
+name: 🔗 Report a Broken Link or Outdated Entry
+description: Flag a 404 link, archived/discontinued project, or inaccurate description in the handbook.
+title: "[Broken Link / Update]: "
+labels: ["bug", "documentation"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping keep **The AI Handbook** accurate and up to date! 🛠️
+
+  - type: dropdown
+    id: file
+    attributes:
+      label: Affected File
+      description: Where did you find the broken link or outdated entry?
+      options:
+        - README.md
+        - Topics/ai-chat-llm-platforms.md
+        - Topics/ai-agents-automation.md
+        - Topics/ai-coding-assistants.md
+        - Topics/development-ui-builders.md
+        - Topics/creative-content-generation.md
+        - Topics/productivity-knowledge-management.md
+        - Topics/ai-wearables-hardware.md
+        - Topics/ai-business-commerce.md
+        - Topics/specialized-ai-tools.md
+        - Topics/ai-tool-discovery.md
+        - Topics/mcp-ecosystem.md
+        - Topics/run-ai-locally.md
+        - Topics/open-source-highlights.md
+        - Topics/learning-resources.md
+        - Topics/ai-podcasts.md
+        - Topics/ai-benchmarks-leaderboards.md
+        - Topics/ai-data-research.md
+        - Topics/ai-glossary.md
+        - CONTRIBUTING.md
+    validations:
+      required: true
+
+  - type: input
+    id: entry
+    attributes:
+      label: Tool / Entry Name & Current URL
+      description: Which tool or link is broken or outdated?
+      placeholder: e.g., ExampleTool (https://example.com)
+    validations:
+      required: true
+
+  - type: dropdown
+    id: issue-type
+    attributes:
+      label: What is the issue?
+      options:
+        - Broken link (404 / domain expired)
+        - Project is discontinued, shut down, or archived
+        - Redirects to a new domain or repository
+        - Outdated or inaccurate description
+        - Duplicate entry
+    validations:
+      required: true
+
+  - type: textarea
+    id: replacement
+    attributes:
+      label: Suggested Fix or Replacement URL
+      description: If the tool moved to a new URL or needs an updated description, share it here (or let us know if it should be removed).
+      placeholder: e.g., Update URL to https://new-domain.com or remove entry because the service shut down.
+    validations:
+      required: false
