@@ -23,6 +23,11 @@
 | **[SWE-bench](https://www.swebench.com/)** | Real-world coding benchmark for agentic AI |
 | **[GPQA Diamond](https://github.com/idavidrein/gpqa)** | Graduate-level science reasoning benchmark |
 | **[ARC-AGI](https://arcprize.org/)** | Fluid intelligence and novel reasoning test |
+| **[LiveBench](https://livebench.ai/)** | Contamination-free benchmark with monthly updated questions and objective ground-truth scoring ([GitHub](https://github.com/LiveBench/LiveBench)) |
+| **[LiveCodeBench](https://livecodebench.github.io/)** | Continuously updated coding benchmark built from fresh competitive programming problems ([GitHub](https://github.com/LiveCodeBench/LiveCodeBench)) |
+| **[Humanity's Last Exam (HLE)](https://lastexam.ai/)** | 2,500+ frontier academic questions authored by domain experts across math, science, and humanities ([GitHub](https://github.com/centerforaisafety/hle)) |
+| **[FrontierMath](https://epoch.ai/frontiermath)** | Epoch AI's benchmark of exceptionally hard, unpublished research-level mathematics problems |
+| **[SimpleBench](https://simple-bench.com/)** | Everyday human spatio-temporal and trick-question reasoning benchmark where LLMs still stumble ([GitHub](https://github.com/simple-bench/SimpleBench)) |
 | **[GDPval](https://openai.com/index/gdpval/)** | OpenAI's benchmark for evaluating AI models on real-world, economically valuable tasks |
 | **[Perplexity Model Council](https://www.perplexity.ai/hub/blog/introducing-model-council)** | Multiple AI models debate and cross-examine each other to reach an answer |
 

@@ -23,6 +23,13 @@
 | **[Anthropic MCP Spec](https://modelcontextprotocol.io/)** | Official MCP specification and documentation |
 | **[MCP Servers (GitHub)](https://github.com/modelcontextprotocol/servers)** | Official repository of reference MCP server implementations |
 | **[Smithery](https://smithery.ai/)** | MCP server registry and discovery platform |
+| **[Glama MCP Directory](https://glama.ai/mcp/servers)** | Searchable directory to discover, inspect, and compare thousands of MCP servers |
+| **[GitHub MCP Server](https://github.com/github/github-mcp-server)** | Official GitHub MCP server for inspecting repos, managing issues/PRs, and automating Actions |
+| **[Firecrawl MCP](https://github.com/firecrawl/firecrawl-mcp-server)** | Official Firecrawl MCP server for web scraping, crawling, and search |
+| **[Supabase MCP](https://github.com/supabase/mcp)** | Official Supabase MCP server for querying databases, managing schemas, and inspecting projects |
+| **[Cloudflare MCP](https://github.com/cloudflare/mcp)** | Official Cloudflare MCP server for managing Workers, D1, R2, and edge infrastructure |
+| **[Figma MCP Server](https://developers.figma.com/docs/figma-mcp-server/)** | Official Figma MCP server giving coding agents direct design context from Figma frames |
+| **[Sentry MCP](https://mcp.sentry.dev/)** | Official Sentry MCP server for querying production errors, traces, and issue context |
 | **[Tavily MCP](https://github.com/tavily-ai/tavily-mcp)** | Real-time web search MCP server for grounding AI |
 | **[Playwright MCP](https://github.com/microsoft/playwright-mcp)** | Browser automation MCP server by Microsoft |
 

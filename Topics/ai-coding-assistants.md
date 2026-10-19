@@ -28,6 +28,13 @@
 | **[Cline](https://github.com/cline/cline)** | Open-source, model-agnostic AI coding agent for VS Code |
 | **[GitHub Copilot](https://github.com/features/copilot)** | Enterprise-ready AI pair programmer for VS Code and IDEs |
 | **[Claude Code](https://docs.anthropic.com/en/docs/claude-code)** | Anthropic's terminal-native autonomous coding agent |
+| **[OpenAI Codex CLI](https://github.com/openai/codex)** | OpenAI's open-source terminal coding agent that inspects, edits, and runs commands locally |
+| **[Zed AI](https://zed.dev/ai)** | High-performance open-source Rust editor with native agentic editing and MCP support ([GitHub](https://github.com/zed-industries/zed)) |
+| **[Devin](https://devin.ai/)** | Cognition's autonomous cloud software engineering agent for parallel end-to-end tasks |
+| **[OpenHands](https://github.com/OpenHands/OpenHands)** | Open-source platform for cloud and local software development agents |
+| **[Kiro](https://kiro.dev/)** | AWS's spec-driven agentic IDE with MCP support and autonomous hooks |
+| **[Google Jules](https://jules.google/)** | Google's asynchronous cloud coding agent that works on repos and opens pull requests |
+| **[Amp](https://ampcode.com/)** | Frontier coding agent for terminal and IDE workflows |
 | **[Aider](https://aider.chat/)** | Open-source terminal AI pair programmer for Git repos |
 | **[Goose](https://github.com/aaif-goose/goose)** | Open-source coding & general-purpose AI agent |
 | **[FreeBuff](https://freebuff.com/)** | Free AI coding agent |
@@ -78,6 +85,9 @@ Give your agent persistent memory across sessions — the "second brain" for AI 
 | **[Graphify](https://github.com/Graphify-Labs/graphify)** | Turns your codebase into a knowledge base for Claude |
 | **[CodeGraph](https://github.com/colbymchenry/codegraph)** | Pre-indexed code knowledge graph that auto-syncs on changes — for Claude Code, Codex, Cursor |
 | **[Context7](https://github.com/upstash/context7)** | Always-fresh docs for LLMs via MCP — keeps your agent's code documentation up to date |
+| **[Mem0](https://github.com/mem0ai/mem0)** | Universal memory layer for AI agents that remembers user preferences and session context |
+| **[Graphiti (Zep)](https://github.com/getzep/graphiti)** | Temporal knowledge graph framework for agents to track evolving facts over time |
+| **[Letta](https://github.com/letta-ai/letta-code)** | Stateful agent harness built around persistent memory and continual learning (formerly MemGPT) |
 
 ---
 

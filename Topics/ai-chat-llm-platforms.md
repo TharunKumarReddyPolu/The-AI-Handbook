@@ -28,6 +28,10 @@
 | **[Claude](https://claude.ai/)** | Anthropic's AI assistant — superior writing, reasoning, and code |
 | **[Google Gemini](https://gemini.google.com/)** | Google's AI assistant integrated with Workspace ecosystem |
 | **[Perplexity](https://www.perplexity.ai/)** | AI-powered search engine with real-time cited answers |
+| **[DeepSeek](https://chat.deepseek.com/)** | Frontier reasoning and coding models (`DeepSeek-R1` & `V3`) with open weights ([GitHub](https://github.com/deepseek-ai/DeepSeek-R1)) |
+| **[Grok](https://grok.com/)** | xAI's assistant with real-time web/X search, DeepSearch, and reasoning |
+| **[Mistral Le Chat](https://chat.mistral.ai/)** | Mistral AI's ultra-fast conversational assistant with code interpreter and web search |
+| **[Kimi](https://www.kimi.ai/en)** | Moonshot AI's long-context assistant for deep research and agentic tasks |
 
 ---
 

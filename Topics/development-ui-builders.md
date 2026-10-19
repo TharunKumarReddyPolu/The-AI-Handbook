@@ -9,8 +9,10 @@
 | Tool | Description |
 |---|---|
 | **[Replit AI](https://replit.com/ai)** | Build apps with natural language prompts |
+| **[v0 by Vercel](https://v0.app/)** | Generate and iterate on React/Next.js UIs and full-stack apps with instant Vercel deployment |
 | **[Bolt.new](https://bolt.new/)** | Excellent for building UI quickly |
 | **[Lovable.dev](https://lovable.dev/)** | Create beautiful UIs with AI ([Best Practices](https://docs.lovable.dev/tips-tricks/best-practice)) |
+| **[Google Stitch](https://stitch.withgoogle.com/)** | Google's AI design tool that turns prompts or reference images into UI designs and frontend code |
 | **[Comfy.org](https://www.comfy.org/)** | Node-based app for generative AI workflows |
 | **[Paper.design](https://paper.design/)** | Design canvas for agents |
 | **[Remotion](https://www.remotion.dev/)** | Make videos programmatically with code |

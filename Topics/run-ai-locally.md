@@ -25,6 +25,11 @@
 | **[Jan](https://jan.ai/)** | Windows, Mac, Linux | Privacy-first, offline ChatGPT alternative |
 | **[Open WebUI](https://github.com/open-webui/open-webui)** | Web (self-hosted) | ChatGPT-like interface for local models (pairs with Ollama) |
 | **[LocalAI](https://localai.io/)** | Windows, Mac, Linux | Self-hosted drop-in OpenAI API replacement |
+| **[vLLM](https://vllm.ai/)** | Linux, Mac | High-throughput, memory-efficient LLM inference and serving engine with PagedAttention ([GitHub](https://github.com/vllm-project/vllm)) |
+| **[MLX](https://ml-explore.github.io/mlx/)** | Apple Silicon (Mac, iOS) | Apple's official array framework purpose-built for fast local ML and LLM inference on unified memory ([GitHub](https://github.com/ml-explore/mlx)) |
+| **[AnythingLLM](https://anythingllm.com/)** | Windows, Mac, Linux, Docker | All-in-one local desktop & Docker app with built-in RAG, document chat, and local agents ([GitHub](https://github.com/Mintplex-Labs/anything-llm)) |
+| **[KoboldCpp](https://github.com/LostRuins/koboldcpp)** | Windows, Mac, Linux | Zero-install single-binary GGUF runner with bundled UI, voice, and image generation |
+| **[Exo](https://github.com/exo-explore/exo)** | Mac, Linux, iOS, Android | Pool everyday devices (Macs, phones, GPUs) into a home cluster to run massive models together |
 | **[OmniRoute](https://github.com/diegosouzapw/OmniRoute)** | Windows, Mac, Linux, Android | Self-hosted AI gateway routing 290+ providers with auto-fallback, token compression, and zero-config keyless access |
 
 ---

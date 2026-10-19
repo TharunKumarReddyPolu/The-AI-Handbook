@@ -39,6 +39,14 @@
 | **[Lindy](https://www.lindy.ai/)** | No-code AI agent builder for business automation |
 | **[Google ADK](https://github.com/google/adk-python)** | Google's Agent Development Kit for building AI agents |
 | **[Semantic Kernel](https://github.com/microsoft/semantic-kernel)** | Microsoft's AI orchestration SDK for .NET and Python |
+| **[OpenAI Agents SDK](https://github.com/openai/openai-agents-python)** | OpenAI's lightweight Python & TypeScript SDK for multi-agent workflows, handoffs, guardrails, and tracing |
+| **[smolagents](https://github.com/huggingface/smolagents)** | Hugging Face's minimalist framework where agents write Python code to take actions |
+| **[Agno](https://github.com/agno-agi/agno)** | Fast multi-agent framework and runtime with built-in memory, knowledge, and observability |
+| **[Mastra](https://mastra.ai/)** | TypeScript-first framework for building AI agents, workflows, memory, and evals ([GitHub](https://github.com/mastra-ai/mastra)) |
+| **[Stagehand](https://github.com/browserbase/stagehand)** | Browserbase's AI web-browsing SDK combining Playwright precision with natural-language agent actions |
+| **[Skyvern](https://github.com/Skyvern-AI/skyvern)** | Automates browser workflows using LLMs and computer vision without brittle selectors |
+| **[Firecrawl](https://www.firecrawl.dev/)** | Turn entire websites into clean LLM-ready Markdown or structured data for agents ([GitHub](https://github.com/firecrawl/firecrawl)) |
+| **[Crawl4AI](https://github.com/unclecode/crawl4ai)** | Open-source LLM-friendly web crawler and scraper built for agents and RAG pipelines |
 
 ---
 

@@ -42,6 +42,17 @@
 | **[ComfyUI](https://github.com/comfyanonymous/ComfyUI)** | Node-based Stable Diffusion workflow engine | ![Stars](https://img.shields.io/github/stars/comfyanonymous/ComfyUI?style=social) |
 | **[VoiceBox](https://github.com/jamiepine/voicebox)** | Open-source AI voice studio | ![Stars](https://img.shields.io/github/stars/jamiepine/voicebox?style=social) |
 | **[RAGFlow](https://github.com/infiniflow/ragflow)** | Enterprise RAG engine for document understanding | ![Stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=social) |
+| **[OpenHands](https://github.com/OpenHands/OpenHands)** | Open-source platform for autonomous AI software development agents | ![Stars](https://img.shields.io/github/stars/OpenHands/OpenHands?style=social) |
+| **[vLLM](https://github.com/vllm-project/vllm)** | High-throughput and memory-efficient LLM inference and serving engine | ![Stars](https://img.shields.io/github/stars/vllm-project/vllm?style=social) |
+| **[LlamaIndex](https://github.com/run-llama/llama_index)** | Leading data framework for LLM applications, RAG, and context-augmented agents | ![Stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social) |
+| **[Crawl4AI](https://github.com/unclecode/crawl4ai)** | Open-source LLM-friendly web crawler and scraper built for AI agents | ![Stars](https://img.shields.io/github/stars/unclecode/crawl4ai?style=social) |
+| **[MarkItDown](https://github.com/microsoft/markitdown)** | Microsoft's utility for converting files and Office documents to Markdown for LLMs | ![Stars](https://img.shields.io/github/stars/microsoft/markitdown?style=social) |
+| **[Docling](https://github.com/docling-project/docling)** | Document parsing toolkit converting PDFs and Office docs into structured AI-ready formats | ![Stars](https://img.shields.io/github/stars/docling-project/docling?style=social) |
+| **[Mem0](https://github.com/mem0ai/mem0)** | Universal memory layer for personalized AI agents and assistants | ![Stars](https://img.shields.io/github/stars/mem0ai/mem0?style=social) |
+| **[smolagents](https://github.com/huggingface/smolagents)** | Hugging Face's minimalist library for agents that think in Python code | ![Stars](https://img.shields.io/github/stars/huggingface/smolagents?style=social) |
+| **[Langfuse](https://github.com/langfuse/langfuse)** | Open-source LLM engineering platform for agent tracing, prompt management, and evals | ![Stars](https://img.shields.io/github/stars/langfuse/langfuse?style=social) |
+| **[Promptfoo](https://github.com/promptfoo/promptfoo)** | Test, evaluate, and red-team prompts, agents, and RAG pipelines locally | ![Stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social) |
+| **[Arize Phoenix](https://github.com/Arize-ai/phoenix)** | Open-source AI observability and evaluation platform based on OpenTelemetry | ![Stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=social) |
 
 ---
 
