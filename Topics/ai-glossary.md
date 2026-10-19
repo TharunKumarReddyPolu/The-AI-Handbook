@@ -29,6 +29,13 @@
 | **Multi-Agent System** | Multiple AI agents working together, each with specialized roles, to solve complex problems |
 | **Agentic AI** | AI systems designed to act autonomously — plan, execute, and adapt without constant human input |
 | **Agentic RAG** | Next-gen RAG where AI agents dynamically plan retrieval, validate evidence, and iterate on results |
+| **GraphRAG** | Retrieval-Augmented Generation that builds a knowledge graph of entities and relationships alongside vector search for deeper multi-hop reasoning |
+| **Context Engineering** | The discipline of dynamically selecting, compressing, and structuring instructions, memory, retrieved evidence, and tool definitions so an LLM gets the exact context it needs |
+| **Computer Use / GUI Agents** | Multimodal agents that observe screenshots and operate graphical interfaces via mouse clicks and keystrokes like a human user |
+| **Tool Calling / Function Calling** | An LLM's structured output request asking the host application to execute a specific function or API with typed arguments |
+| **Deep Research** | An autonomous multi-step agent workflow that iteratively searches, reads dozens of sources, cross-checks claims, and synthesizes a long-form cited report |
+| **A2A (Agent2Agent Protocol)** | Open interoperability standard enabling AI agents built on different frameworks or vendors to discover capabilities and delegate tasks to each other |
+| **Vibe Coding** | Coined by Andrej Karpathy — building software primarily through natural-language prompts and rapid iteration with coding agents |
 
 ---
 
@@ -52,6 +59,10 @@
 | **Reasoning Model** | AI models that "think" before responding via extended internal chain of thought (e.g., o3, DeepSeek-R1) |
 | **Zero-shot / Few-shot** | Prompting an AI with zero or a few examples to guide its response format |
 | **Mixture of Experts (MoE)** | Architecture that activates only relevant "expert" sub-networks per query for efficiency |
+| **Test-Time Compute (Inference-Time Scaling)** | Allocating extra compute while generating an answer — searching, verifying, and refining candidate reasoning paths — to boost accuracy without retraining weights |
+| **Structured Outputs** | Enforcing a strict JSON Schema or grammar during token decoding so model responses are guaranteed to match your application's data types |
+| **Speculative Decoding** | Inference optimization where a fast draft model proposes multiple tokens ahead and the target model verifies them in parallel in a single forward pass |
+| **KV Cache & Prompt Caching** | Storing attention Key/Value tensors from prior tokens (or shared system-prompt prefixes across API calls) to slash time-to-first-token and inference cost |
 
 ---
 

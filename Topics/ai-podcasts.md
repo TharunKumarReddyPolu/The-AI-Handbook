@@ -43,15 +43,21 @@
 |---|---|---|
 | **[The Cognitive Revolution](https://www.cognitiverevolution.ai/)** | Nathan Labenz | AI's transformative potential — model evaluations, research synthesis, and "AI Scouting Reports" |
 | **[No Priors](https://www.nopriors.ai/)** | Sarah Guo, Elad Gil | Founder-and-investor lens — where AI markets are heading and what matters for builders |
+| **[Google DeepMind: The Podcast](https://deepmind.google/the-podcast/)** | Hannah Fry | Deep conversations with Google DeepMind researchers on AGI, science breakthroughs, and real-world impact |
+| **[High Agency](https://humanloop.com/podcast)** | Raza Habib | Interviews with engineering leaders shipping production LLM apps, evals, and agent systems |
 | **[The AI Podcast (NVIDIA)](https://blogs.nvidia.com/ai-podcast/)** | Noah Kravitz | Unexpected AI applications across industries — from scientific research to creative fields |
 
 ---
 
-## ⚡ Daily & Quick Updates
+## ⚡ Daily, Practical & Accessible Shows
 
 | Podcast | Host(s) | Description |
 |---|---|---|
-| **[The AI Daily Brief](https://open.spotify.com/show/1dKEmFn0OFrOBkGEI2UhZL)** | Nathaniel Whittemore | Fast, digestible daily AI news — perfect for founders who need to stay current in 10 minutes |
+| **[The AI Daily Brief](https://open.spotify.com/show/1dKEmFn0OFrOBkGEI2UhZL)** | Nathaniel Whittemore | Fast, digestible daily AI news — perfect for founders who need to stay current in 10 minutes ([YouTube](https://www.youtube.com/@AIDailyBrief)) |
+| **[How I AI](https://www.youtube.com/@HowIAI)** | Claire Vo | Concrete, screen-shared walkthroughs of how builders and operators actually use AI workflows daily |
+| **[AI for Humans](https://www.aiforhumans.show/)** | Kevin Pereira, Gavin Purcell | Entertaining, hands-on weekly breakdown of new AI tools, weird demos, and consumer trends |
+| **[The Next Wave](https://www.youtube.com/@TheNextWavePod)** | Matt Wolfe, Nathan Lands | Practical discussions on applying new AI models, agents, and creative tools in business |
+| **[The Artificial Intelligence Show](https://podcast.smarterx.ai/)** | Paul Roetzer, Mike Kaput | Weekly strategic AI analysis tailored for business leaders, marketers, and GTM teams |
 | **[The AI Native Dev](https://tldl.io/)** | Various | Focused on AI-first development, agentic workflows, and shipping code |
 | **[Vaibhav Sisinty](https://www.youtube.com/@vaibhavsisinty)** | Vaibhav Sisinty | Practical AI tool tutorials, productivity workflows, and career growth with AI |
 | **[Figuring Out with Raj Shamani](https://www.youtube.com/@RajShamani)** | Raj Shamani | India's top podcast — entrepreneurship, AI, and candid interviews with global leaders |

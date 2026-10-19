@@ -22,16 +22,21 @@
 | **[ML Crash Course](https://developers.google.com/machine-learning/crash-course)** | Google | Fast-paced practical ML with TensorFlow |
 | **[Generative AI with LLMs](https://www.coursera.org/learn/generative-ai-with-llms)** | AWS + DeepLearning.AI | LLM lifecycle, fine-tuning, and deployment |
 | **[Elements of AI](https://www.elementsofai.com/)** | University of Helsinki | Free beginner-friendly AI demystifier |
+| **[Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/)** | Microsoft | 21-lesson hands-on curriculum covering prompting, RAG, agents, and fine-tuning ([GitHub](https://github.com/microsoft/generative-ai-for-beginners)) |
+| **[AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners)** | Microsoft | Practical hands-on course on agent design patterns, tool use, agentic RAG, and multi-agent systems |
+| **[Full Stack Deep Learning & LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/)** | Full Stack Deep Learning | Production ML & LLM application engineering, LLMOps, and deployment |
+| **[Start AI Engineering Roadmap](https://github.com/louisfb01/start-ai-engineering)** | Community (GitHub) | Comprehensive step-by-step AI engineering roadmap from foundations to RAG, agents, and evals |
 
 ---
 
 ## 📖 Guides & Documentation
 
-**Essential Reading:**
+**Essential Reading & Cookbooks:**
 
 | Guide | Description |
 |---|---|
-| **[Prompt Engineering Guide](https://www.promptingguide.ai/)** | The most comprehensive open-source prompt engineering reference |
+| **[OpenAI Cookbook](https://cookbook.openai.com/)** | Official collection of production-ready code examples, guides, and notebooks ([GitHub](https://github.com/openai/openai-cookbook)) |
+| **[Prompt Engineering Guide (DAIR.AI)](https://www.promptingguide.ai/)** | The most comprehensive open-source prompt engineering & agent reference ([GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide)) |
 | **[Google's Prompt Engineering Whitepaper](https://www.kaggle.com/whitepaper-prompt-engineering)** | Official guide by Google |
 | **[Nano Banana Pro Prompting Guide](https://dev.to/googleai/nano-banana-pro-prompting-guide-strategies-1h9n)** | Prompting strategies for Google's models |
 | **[Mastering AI-Powered Development](https://manish-ai.notion.site/Mastering-AI-Powered-Development-A-Deep-Dive-into-Prompt-Engineering-for-Vo-Lovable-dev-Replit-a-1fb32b43b76f8043a551fcc36e612b18)** | Deep dive into prompt engineering for Lovable, Replit, and more |
@@ -39,6 +44,7 @@
 | **[Claude Code Mastery](https://arps18.github.io/posts/claude-code-mastery/)** | In-depth guide to mastering Claude Code as an agent |
 | **[Loop Engineering](https://github.com/cobusgreyling/loop-engineering)** | Practical patterns for engineering agentic loops (by Cobus Greyling) |
 | **[Loop Library (ForwardFuture Signals)](https://signals.forwardfuture.com/loop-library/)** | A practical, reusable library of agent loops |
+| **[Import AI Newsletter](https://importai.substack.com/)** | Weekly deep-dive analysis on frontier AI research and policy by Anthropic co-founder Jack Clark |
 
 ---
 

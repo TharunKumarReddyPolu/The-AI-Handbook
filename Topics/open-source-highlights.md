@@ -53,6 +53,17 @@
 | **[Langfuse](https://github.com/langfuse/langfuse)** | Open-source LLM engineering platform for agent tracing, prompt management, and evals | ![Stars](https://img.shields.io/github/stars/langfuse/langfuse?style=social) |
 | **[Promptfoo](https://github.com/promptfoo/promptfoo)** | Test, evaluate, and red-team prompts, agents, and RAG pipelines locally | ![Stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social) |
 | **[Arize Phoenix](https://github.com/Arize-ai/phoenix)** | Open-source AI observability and evaluation platform based on OpenTelemetry | ![Stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=social) |
+| **[Vercel AI SDK](https://github.com/vercel/ai)** | The TypeScript toolkit for building AI web apps, streaming UIs, and agents | ![Stars](https://img.shields.io/github/stars/vercel/ai?style=social) |
+| **[OpenAI Codex CLI](https://github.com/openai/codex)** | OpenAI's lightweight open-source coding agent that runs in your terminal | ![Stars](https://img.shields.io/github/stars/openai/codex?style=social) |
+| **[Instructor](https://github.com/567-labs/instructor)** | Structured, type-safe LLM outputs across Python, TypeScript, Go, and Rust | ![Stars](https://img.shields.io/github/stars/567-labs/instructor?style=social) |
+| **[Qdrant](https://github.com/qdrant/qdrant)** | High-performance Rust vector database and similarity search engine | ![Stars](https://img.shields.io/github/stars/qdrant/qdrant?style=social) |
+| **[Chroma](https://github.com/chroma-core/chroma)** | Open-source embedding and vector database built for LLM applications | ![Stars](https://img.shields.io/github/stars/chroma-core/chroma?style=social) |
+| **[LiveKit Agents](https://github.com/livekit/agents)** | Real-time framework for voice, video, and multimodal AI agents | ![Stars](https://img.shields.io/github/stars/livekit/agents?style=social) |
+| **[Pipecat](https://github.com/pipecat-ai/pipecat)** | Open-source Python framework for voice and multimodal conversational agents | ![Stars](https://img.shields.io/github/stars/pipecat-ai/pipecat?style=social) |
+| **[faster-whisper](https://github.com/SYSTRAN/faster-whisper)** | 4x faster Whisper speech transcription powered by CTranslate2 | ![Stars](https://img.shields.io/github/stars/SYSTRAN/faster-whisper?style=social) |
+| **[Khoj](https://github.com/khoj-ai/khoj)** | Self-hostable AI second brain for your docs, notes, and the web | ![Stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social) |
+| **[AFFiNE](https://github.com/toeverything/AFFiNE)** | Open-source, local-first Notion and Miro alternative with built-in AI | ![Stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social) |
+| **[Exo](https://github.com/exo-explore/exo)** | Run your own AI cluster at home using everyday devices | ![Stars](https://img.shields.io/github/stars/exo-explore/exo?style=social) |
 
 ---
 

@@ -10,7 +10,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/TharunKumarReddyPolu/The-AI-Handbook?style=social)](https://github.com/TharunKumarReddyPolu/The-AI-Handbook/network/members)
 [![GitHub issues](https://img.shields.io/github/issues/TharunKumarReddyPolu/The-AI-Handbook)](https://github.com/TharunKumarReddyPolu/The-AI-Handbook/issues)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-![AI Tools](https://img.shields.io/badge/AI%20Tools-240%2B-orange)
+![AI Tools](https://img.shields.io/badge/AI%20Tools-320%2B-orange)
 ![Sections](https://img.shields.io/badge/Sections-18%2B-brightgreen)
 [![Last Updated](https://img.shields.io/badge/last%20updated-October%202026-blue)](https://github.com/TharunKumarReddyPolu/The-AI-Handbook)
 
@@ -23,6 +23,7 @@
 ## 📋 Table of Contents
 - [🎯 About This Handbook](#-about-this-handbook)
 - [✨ Key Features](#-key-features)
+- [🏆 Top Picks — The 2026 AI Starter Stack](#-top-picks--the-2026-ai-starter-stack)
 - [⚡ Quick Start](#-quick-start)
 - [🛠️ AI Topics Covered](#️-ai-topics-covered)
 - [📄 Each Topic Includes](#-each-topic-includes)
@@ -35,7 +36,7 @@
 
 This handbook is a **curated knowledge base of AI tools, platforms, and learning resources** designed for **developers, AI enthusiasts, and professionals** who want a single reference they can rely on. Each topic is presented in a rich, standalone format covering:
 
-- 🛠️ **Tool & Platform Tables** — 240+ handpicked tools across every category
+- 🛠️ **Tool & Platform Tables** — 320+ handpicked tools across every category
 - 🔑 **Key Concepts** — Core terminology and concepts explained clearly
 - 💡 **Pro Tips** — Practical advice on when and how to use each tool
 - 🎯 **Decision Guides** — "When to Use What" tables for quick choices
@@ -50,16 +51,32 @@ This handbook is a **curated knowledge base of AI tools, platforms, and learning
 
 | Feature | Description |
 |---------|-------------|
-| 🛠️ **240+ AI Tools** | Handpicked tools across 18 categories with descriptions and links |
-| 💡 **Pro Tips & Decision Guides** | Practical advice on when and how to use each tool |
-| 🔑 **Key Concepts** | Core terminology explained in every topic |
+| 🛠️ **320+ AI Tools** | Handpicked tools across 18 categories with descriptions and links |
+| 💡 **Pro Tips & Decision Guides** | Practical advice and "When to Use What" tables in every topic |
+| 🔑 **Key Concepts** | Core terminology explained clearly in every topic guide |
 | 🔌 **MCP Ecosystem** | Complete guide to Model Context Protocol servers, clients, and registries |
 | 🏃 **Run AI Locally** | Tools and hardware recommendations for local inference |
-| 🔓 **Open Source Spotlights** | Repos worth starring — with live GitHub star counts |
+| 🔓 **Open Source Spotlights** | 55+ repos worth starring — with live GitHub star counts |
 | 📚 **Learning Paths** | Structured roadmaps from beginner to AI generalist |
-| 🧠 **Categorized Glossary** | 30 AI terms organized by topic (Agents, Training, Reasoning, Safety, Hardware) |
-| 🔬 **Benchmarks & Leaderboards** | Track and compare AI model performance |
-| 📊 **Data & Research** | Essential platforms for AI research and datasets |
+| 🧠 **Categorized Glossary** | 40+ AI terms organized by topic (Agents, Training, Reasoning, Safety, Hardware) |
+| 🔬 **Benchmarks & Leaderboards** | Track and compare AI model performance across coding, agents, and reasoning |
+| 📊 **Data, RAG & Fine-Tuning** | Essential platforms for AI research, vector DBs, and post-training |
+
+---
+
+## 🏆 Top Picks — The 2026 AI Starter Stack
+
+Don't want to browse 320+ tools right now? Start with the highest-signal tools in each category:
+
+| Category | Top Picks |
+|---|---|
+| 💻 **AI Coding** | [Claude Code](https://docs.anthropic.com/en/docs/claude-code) · [Cursor](https://cursor.sh/) · [OpenCode](https://github.com/anomalyco/opencode) · [OpenAI Codex CLI](https://github.com/openai/codex) · [Context7](https://github.com/upstash/context7) · [Repomix](https://github.com/yamadashy/repomix) |
+| 🤖 **AI Agents & Frameworks** | [LangGraph](https://github.com/langchain-ai/langgraph) · [CrewAI](https://www.crewai.com/) · [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) · [Pydantic AI](https://github.com/pydantic/pydantic-ai) · [Browser Use](https://browser-use.com/) · [OpenClaw](https://openclaw.ai/) |
+| 🔎 **Search & Deep Research** | [Perplexity](https://www.perplexity.ai/) · [NotebookLM](https://notebooklm.google/) · [Exa](https://exa.ai/) · [Consensus](https://consensus.app/) · [WorldMonitor](https://github.com/koala73/worldmonitor) |
+| 🏗️ **UI & App Builders** | [v0 by Vercel](https://v0.app/) · [Lovable](https://lovable.dev/) · [Bolt.new](https://bolt.new/) · [Vercel AI SDK](https://ai-sdk.dev/) · [Instructor](https://python.useinstructor.com/) |
+| 🎨 **Creative (Image, Video, Audio)** | [Midjourney](https://www.midjourney.com/home) · [FLUX](https://bfl.ai/) · [Runway](https://runwayml.com/) · [ElevenLabs](https://elevenlabs.io/) · [Suno](https://suno.com/) · [Gamma](https://gamma.app/) |
+| 🏃 **Local & Open-Source AI** | [Ollama](https://ollama.com/) · [LM Studio](https://lmstudio.ai/) · [vLLM](https://vllm.ai/) · [Open WebUI](https://github.com/open-webui/open-webui) · [OpenRouter](https://openrouter.ai/) · [OmniRoute](https://github.com/diegosouzapw/OmniRoute) |
+| 🔍 **Evals, Tracing & RAG** | [Langfuse](https://github.com/langfuse/langfuse) · [Promptfoo](https://github.com/promptfoo/promptfoo) · [Qdrant](https://github.com/qdrant/qdrant) · [Docling](https://github.com/docling-project/docling) · [Firecrawl](https://www.firecrawl.dev/) |
 
 ---
 

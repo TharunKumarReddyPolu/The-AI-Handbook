@@ -30,6 +30,12 @@
 | **[Cloudflare MCP](https://github.com/cloudflare/mcp)** | Official Cloudflare MCP server for managing Workers, D1, R2, and edge infrastructure |
 | **[Figma MCP Server](https://developers.figma.com/docs/figma-mcp-server/)** | Official Figma MCP server giving coding agents direct design context from Figma frames |
 | **[Sentry MCP](https://mcp.sentry.dev/)** | Official Sentry MCP server for querying production errors, traces, and issue context |
+| **[Hugging Face MCP Server](https://github.com/huggingface/hf-mcp-server)** | Official Hugging Face MCP server connecting agents to Hub models, datasets, Spaces, and papers |
+| **[AWS Labs MCP Servers](https://awslabs.github.io/mcp/)** | Official suite of AWS MCP servers for architecture, documentation, CDK/Terraform, and cloud operations ([GitHub](https://github.com/awslabs/mcp)) |
+| **[Microsoft MCP Catalog](https://github.com/microsoft/mcp)** | Official Microsoft & Azure MCP server collection for cloud, DevOps, and enterprise data |
+| **[Google MCP Directory](https://github.com/google/mcp)** | Official Google Cloud and Workspace MCP servers for BigQuery, Maps, and developer workflows |
+| **[GitLab MCP Server](https://docs.gitlab.com/user/model_context_protocol/mcp_server/)** | Official GitLab MCP server for issues, merge requests, pipelines, and repository context |
+| **[Atlassian Rovo MCP](https://www.atlassian.com/platform/rovo-mcp)** | Official Atlassian MCP server connecting AI agents to Jira issues and Confluence pages |
 | **[Tavily MCP](https://github.com/tavily-ai/tavily-mcp)** | Real-time web search MCP server for grounding AI |
 | **[Playwright MCP](https://github.com/microsoft/playwright-mcp)** | Browser automation MCP server by Microsoft |
 
@@ -45,6 +51,19 @@
 - **Smithery** and **MCP.so** are the best places to discover community-built MCP servers
 - **Playwright MCP** gives your AI the ability to browse and interact with web pages autonomously
 - The protocol now supports **Streamable HTTP** for remote servers and **OAuth 2.1** for enterprise auth
+
+---
+
+## 🎯 When to Use What
+
+| Need | Best MCP Server / Registry |
+|---|---|
+| Discover & browse community MCP servers | MCP.so, Smithery, Glama MCP Directory, MCP Market |
+| Up-to-date library & framework docs | Context7 |
+| Git, PRs, CI/CD & issue tracking | GitHub MCP Server, GitLab MCP Server, Atlassian Rovo MCP |
+| Databases, backends & cloud infra | Supabase MCP, Cloudflare MCP, AWS Labs MCP, Microsoft MCP |
+| Browser automation & web scraping | Playwright MCP, Firecrawl MCP, Tavily MCP |
+| Design-to-code & production debugging | Figma MCP Server, Sentry MCP |
 
 ---
 
